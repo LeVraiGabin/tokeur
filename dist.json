@@ -1,0 +1,14 @@
+{
+  "user": "levraigabin"
+  "commands": {
+    "tiktok-hello": {
+      "chats": [
+        {
+          "nickname": "TikTok",
+          "username": "tiktok",
+          "comment": "Hello !",
+          "picture": "https://seeklogo.com//images/T/tiktok-app-icon-logo-0F5AD7AE01-seeklogo.com.png"
+      ]
+    }
+  }
+}
